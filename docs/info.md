@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-
+Our project is hosted on GitHub and leverages its collaborative tools to manage and develop the codebase. It includes various components such as the frontend, backend, database, and possibly machine learning models.
 
 ## How to test
 
