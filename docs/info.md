@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Our project is hosted on GitHub and leverages its collaborative tools to manage and develop the codebase. It includes various components such as the frontend, backend, database, and possibly machine learning models.
+This circuit needs to accept 4 different two two-bit values, A and B. It needs to output 4 different on-bit values, for each gate. AND, NAND, XOR, and XNOR
 
 ## How to test
-
-
-
+Simulate using Wokwi, testing against this truth table as golden file
+A | B | AND | NAND | XOR | XNOR |
+---------------------------------
+0 | 0 | 0   |  1   |  0  |  1   |
+0 | 1 | 0   |  1   |  1  |  0   |
+1 | 0 | 0   |  1   |  1  |  0   |
+1 | 1 | 1   |  0   |  1  |  1   |
 
 ## External hardware
 
