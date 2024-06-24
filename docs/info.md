@@ -21,5 +21,5 @@ A | B | AND | NAND | XOR | XNOR |
 1 | 1 | 1   |  0   |  1  |  1   |
 
 ## External hardware
-
+12 LED's
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
